@@ -7,9 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
-    <Folder Include="Services\" />
-    <Folder Include="Repositories\" />
     <Folder Include="Views\Desarrollador\" />
     <Folder Include="Views\Comentario\" />
     <Folder Include="Views\Videojuego\" />

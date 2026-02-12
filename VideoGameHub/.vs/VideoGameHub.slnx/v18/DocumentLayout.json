@@ -1,12 +1,275 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\services\\idesarrolladorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\services\\idesarrolladorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\services\\icomentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\services\\icomentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\services\\comentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\services\\comentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\services\\desarrolladorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\services\\desarrolladorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\repositories\\idesarrolladorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\repositories\\idesarrolladorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\repositories\\icomentariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\repositories\\icomentariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\repositories\\desarrolladorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\repositories\\desarrolladorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\models\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\models\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\models\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\controllers\\desarrolladorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\controllers\\desarrolladorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|c:\\users\\hp\\documents\\universidad\\cuatri 7\\progra avanzada\\tarea2\\videogamehub\\videogamehub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CE7F94-0EE5-5573-0E8D-1F0E29332D67}|VideoGameHub\\VideoGameHub.csproj|solutionrelative:videogamehub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDesarrolladorService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Services\\IDesarrolladorService.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Services\\IDesarrolladorService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Services\\IDesarrolladorService.cs",
+              "RelativeToolTip": "VideoGameHub\\Services\\IDesarrolladorService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:59:48.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IComentarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Services\\IComentarioService.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Services\\IComentarioService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Services\\IComentarioService.cs",
+              "RelativeToolTip": "VideoGameHub\\Services\\IComentarioService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:59:47.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComentarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Services\\ComentarioService.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Services\\ComentarioService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Services\\ComentarioService.cs",
+              "RelativeToolTip": "VideoGameHub\\Services\\ComentarioService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:59:45.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesarrolladorService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Services\\DesarrolladorService.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Services\\DesarrolladorService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Services\\DesarrolladorService.cs",
+              "RelativeToolTip": "VideoGameHub\\Services\\DesarrolladorService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:59:43.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDesarrolladorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Repositories\\IDesarrolladorRepository.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Repositories\\IDesarrolladorRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Repositories\\IDesarrolladorRepository.cs",
+              "RelativeToolTip": "VideoGameHub\\Repositories\\IDesarrolladorRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:59:41.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IComentarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Repositories\\IComentarioRepository.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Repositories\\IComentarioRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Repositories\\IComentarioRepository.cs",
+              "RelativeToolTip": "VideoGameHub\\Repositories\\IComentarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:59:38.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DesarrolladorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Repositories\\DesarrolladorRepository.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Repositories\\DesarrolladorRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Repositories\\DesarrolladorRepository.cs",
+              "RelativeToolTip": "VideoGameHub\\Repositories\\DesarrolladorRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:59:36.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Desarrollador.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Models\\Desarrollador.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Models\\Desarrollador.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Models\\Desarrollador.cs",
+              "RelativeToolTip": "VideoGameHub\\Models\\Desarrollador.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:59:29.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Models\\Comentario.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Models\\Comentario.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Models\\Comentario.cs",
+              "RelativeToolTip": "VideoGameHub\\Models\\Comentario.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:59:26.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "VideoGameHub\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:58:56.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DesarrolladorController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Controllers\\DesarrolladorController.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Controllers\\DesarrolladorController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Controllers\\DesarrolladorController.cs",
+              "RelativeToolTip": "VideoGameHub\\Controllers\\DesarrolladorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:58:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ComentarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Controllers\\ComentarioController.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Controllers\\ComentarioController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Controllers\\ComentarioController.cs",
+              "RelativeToolTip": "VideoGameHub\\Controllers\\ComentarioController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:58:46.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\appsettings.json",
+              "RelativeDocumentMoniker": "VideoGameHub\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\appsettings.json",
+              "RelativeToolTip": "VideoGameHub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T06:58:09.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Program.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Program.cs",
+              "RelativeToolTip": "VideoGameHub\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:57:59.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VideoGameHub\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Documents\\Universidad\\Cuatri 7\\Progra Avanzada\\Tarea2\\VideoGameHub\\VideoGameHub\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VideoGameHub\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:56:45.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
