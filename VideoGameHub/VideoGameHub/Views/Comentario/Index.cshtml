@@ -1,0 +1,44 @@
+﻿@model List<VideoGameHub.Models.Comentario>
+
+<h2>Comentarios</h2>
+
+<a asp-action="Crear"
+   class="btn btn-success mb-3">
+    Nuevo comentario
+</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Texto</th>
+            <th>Valoración</th>
+            <th>Fecha</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.TextoComentario</td>
+                <td>@c.Valoracion ⭐</td>
+                <td>@c.Fecha.ToShortDateString()</td>
+
+                <td>
+                    <a asp-action="Editar"
+                       asp-route-id="@c.Id"
+                       class="btn btn-warning btn-sm">
+                        Editar
+                    </a>
+
+                    <a asp-action="Eliminar"
+                       asp-route-id="@c.Id"
+                       class="btn btn-danger btn-sm">
+                        Eliminar
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

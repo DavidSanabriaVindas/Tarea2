@@ -1,0 +1,13 @@
+﻿@model VideoGameHub.Models.Desarrollador
+
+<h2>Eliminar</h2>
+
+<div class="alert alert-danger">
+    ¿Eliminar a @Model.Nombre?
+</div>
+
+<form asp-action="EliminarConfirmado" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <button class="btn btn-danger">Eliminar</button>
+</form>

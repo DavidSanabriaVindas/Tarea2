@@ -1,0 +1,41 @@
+﻿@model List<VideoGameHub.Models.Desarrollador>
+
+<h2>Desarrolladores</h2>
+
+<a asp-action="Crear" class="btn btn-success mb-3">
+    ➕ Registrar desarrollador
+</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>País</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <td>@d.Nombre</td>
+                <td>@d.Pais</td>
+
+                <td>
+                    <a asp-action="Editar"
+                       asp-route-id="@d.Id"
+                       class="btn btn-warning btn-sm">
+                        Editar
+                    </a>
+
+                    <a asp-action="Eliminar"
+                       asp-route-id="@d.Id"
+                       class="btn btn-danger btn-sm">
+                        Eliminar
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

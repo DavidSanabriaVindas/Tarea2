@@ -1,0 +1,20 @@
+﻿@model VideoGameHub.Models.Videojuego
+
+<h2>Eliminar Videojuego</h2>
+
+<div class="alert alert-danger">
+    ¿Seguro que desea eliminar <strong>@Model.Titulo</strong>?
+</div>
+
+<form asp-action="EliminarConfirmado" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <button class="btn btn-danger">
+        Eliminar
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">
+        Cancelar
+    </a>
+</form>
