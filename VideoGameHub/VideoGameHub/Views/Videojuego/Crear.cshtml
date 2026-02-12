@@ -1,0 +1,40 @@
+﻿@model VideoGameHub.Models.Videojuego
+
+<h2>Registrar Videojuego</h2>
+
+<form asp-action="Crear"
+      method="post"
+      enctype="multipart/form-data"
+      class="row g-3">
+
+    <div class="col-md-6">
+        <label asp-for="Titulo"></label>
+        <input asp-for="Titulo" class="form-control" />
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="Genero"></label>
+        <input asp-for="Genero" class="form-control" />
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="Plataforma"></label>
+        <input asp-for="Plataforma" class="form-control" />
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="Precio"></label>
+        <input asp-for="Precio" class="form-control" />
+    </div>
+
+    <div class="col-md-6">
+        <label>Imagen</label>
+        <input type="file" name="Imagen" class="form-control" />
+    </div>
+
+    <div>
+        <button class="btn btn-primary">Guardar</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </div>
+
+</form>

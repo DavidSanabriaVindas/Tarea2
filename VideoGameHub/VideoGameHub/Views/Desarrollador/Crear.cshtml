@@ -1,0 +1,20 @@
+﻿@model VideoGameHub.Models.Desarrollador
+
+<h2>Registrar Desarrollador</h2>
+
+<form asp-action="Crear" method="post">
+
+    <div class="mb-3">
+        <label asp-for="Nombre"></label>
+        <input asp-for="Nombre" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Pais"></label>
+        <input asp-for="Pais" class="form-control" />
+    </div>
+
+    <button class="btn btn-primary">Guardar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+
+</form>

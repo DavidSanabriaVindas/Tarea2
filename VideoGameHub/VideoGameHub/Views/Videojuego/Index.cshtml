@@ -1,0 +1,55 @@
+﻿@model List<VideoGameHub.Models.Videojuego>
+
+@{
+    ViewData["Title"] = "Videojuegos";
+}
+
+<h2 class="mb-3">Videojuegos</h2>
+
+<a asp-action="Crear" class="btn btn-success mb-3">
+    Registrar videojuego
+</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Género</th>
+            <th>Plataforma</th>
+            <th>Precio</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var v in Model)
+        {
+            <tr>
+                <td>@v.Titulo</td>
+                <td>@v.Genero</td>
+                <td>@v.Plataforma</td>
+                <td>$@v.Precio</td>
+
+                <td>
+                    <a asp-action="Detalle"
+                       asp-route-id="@v.Id"
+                       class="btn btn-primary btn-sm">
+                        Ver
+                    </a>
+
+                    <a asp-action="Editar"
+                       asp-route-id="@v.Id"
+                       class="btn btn-warning btn-sm">
+                        Editar
+                    </a>
+
+                    <a asp-action="Eliminar"
+                       asp-route-id="@v.Id"
+                       class="btn btn-danger btn-sm">
+                        Eliminar
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

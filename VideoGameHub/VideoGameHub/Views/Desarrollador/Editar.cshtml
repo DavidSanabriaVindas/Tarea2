@@ -1,0 +1,20 @@
+﻿@model VideoGameHub.Models.Desarrollador
+
+<h2>Editar Desarrollador</h2>
+
+<form asp-action="Editar" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label asp-for="Nombre"></label>
+        <input asp-for="Nombre" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Pais"></label>
+        <input asp-for="Pais" class="form-control" />
+    </div>
+
+    <button class="btn btn-warning">Actualizar</button>
+</form>

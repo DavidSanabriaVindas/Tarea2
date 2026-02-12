@@ -1,0 +1,17 @@
+﻿@model VideoGameHub.Models.Comentario
+
+<h2>Eliminar Comentario</h2>
+
+<div class="alert alert-danger">
+    ¿Seguro que desea eliminar este comentario?
+</div>
+
+<form asp-action="EliminarConfirmado" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <button class="btn btn-danger">
+        Eliminar
+    </button>
+
+</form>
